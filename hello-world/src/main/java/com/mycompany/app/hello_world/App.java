@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("lzf_dev hello world");
+        System.out.println("新增的string");
     }
 }
